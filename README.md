@@ -1,3 +1,3 @@
-# Hello
-my first repository on github!
-I love coffee, pizza, and dancing.
+# 手机端医疗首页 
+
+自适应不同尺寸大小的手机屏幕
